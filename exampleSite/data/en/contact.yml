@@ -10,11 +10,9 @@ contact:
   - icon: ti-location-pin
     info: Semarang, Indonesia
   - icon: ti-mobile
-    info: 'Phone: +880-31-000-000'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
+    info: "+62 888 8888 8888"
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: moslm.support@mail.com
   contact_form:
     enable: true
     form_action: "#"
